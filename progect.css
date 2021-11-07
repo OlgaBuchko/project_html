@@ -680,8 +680,8 @@ text-decoration: none;
     .m_bottom{
         margin-bottom: 10px;
     }
-    .border{
-        display: none;
+    .border_bt{
+        border: 2px solid transparent;
     }
 
 
@@ -858,5 +858,8 @@ bottom: 0}
     font-size: 12px;
     line-height: 14px;
 
+}
+.border_bt{
+    border: 2px solid transparent;
 }
 }
